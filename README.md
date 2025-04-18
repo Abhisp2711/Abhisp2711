@@ -1,5 +1,6 @@
-<h1 align="center" style="color:#2ecc71 ;font-family:Courier New;">Hi, I'm Abhishek Kumar Singh</h1>
+<h1 align="center" style="font-family:Courier New;">Hi, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate Frontend Developer, ML Enthusiast, and Open Source Contributor</h3>
+
 - ## 🔭 I’m currently working on:  
   - Real Estate Web App (React, Node.js, MongoDB)  
   - TrackCalorie - Calorie Tracker App (Webpack, Bootstrap)
