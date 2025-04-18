@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abhishek Kumar Singh</h1>
+<h1 align="center" style="color:purple">Hi, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">A passionate Frontend Developer, ML Enthusiast, and Open Source Contributor</h3>
 
 - ## 🔭 I’m currently working on:  
