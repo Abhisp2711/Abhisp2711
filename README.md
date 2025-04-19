@@ -1,4 +1,10 @@
-<h1 align="center" style="font-family:Courier New;">Hi, I'm Abhishek Kumar Singh</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=22&pause=1000&color=FF69B4&background=00000000&width=435&lines=Hi%2C+I+am+Abhishek+Kumar+Singh;Frontend+Developer;Python+%7C+DSA+%7C+C%2B%2B+%7C+ML+Engineer" alt="Typing SVG" />
+  </a>
+</div>
+
+
 <h3 align="center">A passionate Frontend Developer, ML Enthusiast, and Open Source Contributor</h3>
 
 - ## 🔭 I’m currently working on:  
