@@ -1,10 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&size=22&pause=1000&color=FF69B4&background=00000000&width=435&lines=Hi%2C+I+am+Abhishek+Kumar+Singh;Frontend+Developer;Python+%7C+DSA+%7C+C%2B%2B+%7C+ML+Engineer" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Winky+Rough&size=22&pause=990&color=FF69B4&background=392CFF00&width=435&lines=Hi%2C+I+am+Abhishek+Kumar+Singh;Frontend+Developer;Python+%7C+DSA+%7C+C%2B%2B+%7C+Lov;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%85%E0%A4%AD%E0%A4%BF%E0%A4%B7%E0%A5%87%E0%A4%95+%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%B0+%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9+%E0%A5%A4;%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A4%82%E0%A4%9F%E0%A4%8F%E0%A4%82%E0%A4%A1+%E0%A4%A1%E0%A5%87%E0%A4%B5%E0%A4%B2%E0%A4%AA%E0%A4%B0;%E0%A4%AA%E0%A4%BE%E0%A4%87%E0%A4%A5%E0%A4%A8+%7C+%E0%A4%A1%E0%A5%80%E0%A4%8F%E0%A4%B8%E0%A4%8F+%7C+%E0%A4%B8%E0%A5%80%2B%2B+%7C+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AE" alt="Typing SVG" /></a>
 </div>
-
-
 <h3 align="center">A passionate Frontend Developer, ML Enthusiast, and Open Source Contributor</h3>
 
 - ## 🔭 I’m currently working on:  
